@@ -1,0 +1,9 @@
+{
+  "domain": "ha_infinias_integration",
+  "name": "HA Infinias Integration",
+  "version": "1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/yourusername/HA-Infinias-Integration",
+  "requirements": [],
+  "codeowners": ["@yourusername"]
+}
