@@ -1,9 +1,10 @@
 {
-  "domain": "ha_infinias_integration",
+  "domain": "infinias_integration",
   "name": "HA Infinias Integration",
-  "version": "1.0",
+  "version": "0.0.1",  // Use a version that matches your GitHub tag
   "config_flow": true,
-  "documentation": "https://github.com/yourusername/HA-Infinias-Integration",
+  "documentation": "https://github.com/your-username/HA-Infinias-Integration",
   "requirements": [],
-  "codeowners": ["@yourusername"]
+  "dependencies": [],
+  "codeowners": ["@jpwg4"]
 }
